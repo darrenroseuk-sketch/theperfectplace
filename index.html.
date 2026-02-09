@@ -25,7 +25,7 @@ html
 <body>
     <div class="container">
         <!-- REPLACE 'cover.jpg' WITH YOUR EXACT FILENAME -->
-        <img src="cover.jpg" alt="The Perfect Place - For partnership enquiries: hello@theperfectplace.uk">
+        <img src=theperfectplacecoming soon.png alt="The Perfect Place - For partnership enquiries: hello@theperfectplace.uk">
     </div>
 </body>
 </html>
